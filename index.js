@@ -2,8 +2,8 @@
  * Module dependencies.
  */
 
-var classes = require('classes')
-  , event = require('event')
+var classes = require('component-classes')
+  , event = require('component-event')
 
 /**
  * Toggle .onload and .preload classes based on the state of `el`.
